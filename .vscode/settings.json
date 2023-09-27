@@ -1,0 +1,23 @@
+{
+    "terminal.integrated.splitCwd": "workspaceRoot",
+    "git.verboseCommit": true,
+    "git.useCommitInputAsStashMessage": true,
+    "git.showPushSuccessNotification": true,
+    "git.rebaseWhenSync": true,
+    "git.pruneOnFetch": true,
+    "git.allowForcePush": true,
+    "git.allowNoVerifyCommit": true,
+    "git.alwaysShowStagedChangesResourceGroup": true,
+    "git.alwaysSignOff": true,
+    "git.branchRandomName.enable": true,
+    "git.closeDiffOnOperation": true,
+    "git.fetchOnPull": true,
+    "git.followTagsWhenSync": true,
+    "terminal.integrated.automationProfile.windows":{
+
+    }
+    "git.autofetch""terminal.integrated.shellIntegration.history":{
+
+    }
+    "terminal.integrated.showExitAlert": true
+}
